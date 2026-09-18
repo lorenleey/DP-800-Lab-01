@@ -3,7 +3,7 @@ DP-800 Lab 01 - Design and implement database objects with SQL
 
 #Requisitos
   -SQL Server 2025 Enterprise Developer
-  -SSMS 2022 
+  -SSMS 22 
 Se puede comprobar la version SQL server de la siguiente manera
 
 ![Versión SQL Server](./img/sql_comprobacion_version.png)
