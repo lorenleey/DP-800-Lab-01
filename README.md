@@ -20,7 +20,7 @@ Adicional a eso se ejecutan los querys de creación de tablas e inserción de da
 
 De manera que hacemos un SELECT en la tabla Category y salen resultados para comprobar que si se cargó
 
-
+![Versión SQL Server](img/sql_select.png)
 
 https://microsoftlearning.github.io/mslearn-sql-developer/Instructions/Labs/01-create-database-objects.html
 
