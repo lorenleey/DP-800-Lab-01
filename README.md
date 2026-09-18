@@ -6,7 +6,7 @@ DP-800 Lab 01 - Design and implement database objects with SQL
   -SSMS 2022 
 Se puede comprobar la version SQL server de la siguiente manera
 
-![Versión SQL Server](img/sql_comprobacion_version.png)
+![Versión SQL Server](../img/sql_comprobacion_version.png)
 
 ##Preparación previa 
 Clonación de repositorio de github con 
@@ -20,7 +20,7 @@ Adicional a eso se ejecutan los querys de creación de tablas e inserción de da
 
 De manera que hacemos un SELECT en la tabla Category y salen resultados para comprobar que si se cargó
 
-![Versión SQL Server](img/sql_select.png)
+![Versión SQL Server](../img/sql_select.png)
 
 https://microsoftlearning.github.io/mslearn-sql-developer/Instructions/Labs/01-create-database-objects.html
 
